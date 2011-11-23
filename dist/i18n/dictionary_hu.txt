@@ -1,0 +1,6 @@
+breed - fajta
+link - kapcsolat
+shape - alakzat
+plot - ábra
+patch - folt
+
